@@ -1,0 +1,10 @@
+SRART:
+INP
+STA NUM 
+INP
+CMA
+INC-AC 
+ADD NUM 
+OUT 
+HLT
+NUM:.data 1 0
